@@ -3,7 +3,39 @@
 ## 📌 Overview
 
 **PowerPoint Generator** is a Python-based project that automates the creation of PowerPoint presentations using predefined templates. This tool simplifies the process of generating consistent and professional-looking presentations, saving valuable time and effort.
+Absolutely! Here's the updated README with a new section to showcase **4 screenshots** from your project. This section is styled clearly and designed to guide users visually through your application.
 
+You can replace the placeholder image URLs with your actual image paths or GitHub-hosted links.
+
+---
+
+## 📸 Application Screenshots
+
+
+<table>
+  <tr>
+    <td align="center">
+      <b>🏠 Homepage</b><br>
+      <img src="https://github.com/Chatur07/PowerPoint_Generator_Python/blob/main/ss/ss1.png" width="300" alt="Homepage Screenshot"/>
+    </td>
+    <td align="center">
+      <b>🔐 Login Page</b><br>
+      <img src="https://github.com/Chatur07/PowerPoint_Generator_Python/blob/main/ss/ss2.png" width="300" alt="Login Page Screenshot"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🤖 Disease Detection</b><br>
+      <img src="https://github.com/Chatur07/PowerPoint_Generator_Python/blob/main/ss/ss3.png" width="300" alt="Disease Detection Screenshot"/>
+    </td>
+    <td align="center">
+      <b>🌿 Essentials Borrow</b><br>
+      <img src="https://github.com/Chatur07/PowerPoint_Generator_Python/blob/main/ss/ss4.png" width="300" alt="Borrow Essentials Screenshot"/>
+    </td>
+  </tr>
+</table>
+
+'''
 ## 🛠️ Features
 
 - 📑 Generate PowerPoint presentations automatically
