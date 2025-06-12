@@ -15,22 +15,18 @@ You can replace the placeholder image URLs with your actual image paths or GitHu
 <table>
   <tr>
     <td align="center">
-      <b>🏠 Homepage</b><br>
-      <img src="https://github.com/Chatur07/PowerPoint_Generator_Python/blob/main/ss/ss1.png" width="300" alt="Homepage Screenshot"/>
+      <img src="https://github.com/Chatur07/PowerPoint_Generator_Python/blob/main/ss/ss1.png" width="600" alt="Homepage Screenshot"/>
     </td>
     <td align="center">
-      <b>🔐 Login Page</b><br>
-      <img src="https://github.com/Chatur07/PowerPoint_Generator_Python/blob/main/ss/ss2.png" width="300" alt="Login Page Screenshot"/>
+      <img src="https://github.com/Chatur07/PowerPoint_Generator_Python/blob/main/ss/ss2.png" width="600" alt="Login Page Screenshot"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <b>🤖 Disease Detection</b><br>
-      <img src="https://github.com/Chatur07/PowerPoint_Generator_Python/blob/main/ss/ss3.png" width="300" alt="Disease Detection Screenshot"/>
+      <img src="https://github.com/Chatur07/PowerPoint_Generator_Python/blob/main/ss/ss3.png" width="600" alt="Disease Detection Screenshot"/>
     </td>
     <td align="center">
-      <b>🌿 Essentials Borrow</b><br>
-      <img src="https://github.com/Chatur07/PowerPoint_Generator_Python/blob/main/ss/ss4.png" width="300" alt="Borrow Essentials Screenshot"/>
+      <img src="https://github.com/Chatur07/PowerPoint_Generator_Python/blob/main/ss/ss4.png" width="600" alt="Borrow Essentials Screenshot"/>
     </td>
   </tr>
 </table>
