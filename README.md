@@ -77,5 +77,14 @@ python generator.py
 ## 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss the proposed update.
+
+## 🙌 Show Your Support
+
+If you like this project:
+
+* ⭐ **Star the repository**
+* 🤝 **Follow on [GitHub](https://github.com/Chatur07)** and [LinkedIn](www.linkedin.com/in/vikhyat-chaturvedi-678308252)
+* 💬 Share feedback or contribute!
+
 ## NOTE
 Copy the .env.example file and paste it in the myapp folder. Rename it to .env and replace the place holder for API key.
